@@ -1,9 +1,16 @@
 {
-  "ui_font_size": 15,
-  "ui_font_family": "JetBrains Mono",
-  "buffer_font_size": 16,
+  "ui_font_size": 17,
+  "ui_font_weight": 600,
+  "ui_font_family": "FreeMono",
+
   "enable_language_server": true,
-  "buffer_font_family": "JetBrains Mono",
+
+  "buffer_font_size": 18,
+  "buffer_font_family": "Cascadia Mono",
+  "buffer_font_weight": 600,
+
+  "cursor_blink": true,
+  "cursor_shape": "bar",
 
   "format_on_save": "on",
   "soft_wrap": "editor_width",
